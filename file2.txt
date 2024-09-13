@@ -1,1 +1,6 @@
 adding a new line into file2
+
+this is from intelliJ
+
+
+this is also from intelliJ
